@@ -1,12 +1,20 @@
-# REST-API-Hoteis-Python-e-Flask
-## Descrição
-Este repositório contém o código desenvolvido por mim durante o curso "REST APIs com Python e Flask" da Udemy. O objetivo do curso foi aprender a criar APIs RESTful utilizando Python e o framework Flask, cobrindo conceitos essenciais como manipulação de rotas, tratamento de erros e autenticação. A API desenvolvida neste repositório simula o sistema de gerenciamento de **hotéis**, permitindo a criação, consulta, atualização e exclusão de hotéis, além de autenticação de usuários. 
+# REST-API-Hotels-Python-and-Flask
 
+## Description
+This repository contains the code developed by me during the **“REST APIs with Python and Flask”** course on Udemy.  
+The goal of the course was to learn how to build **RESTful APIs** using Python and the Flask framework, covering essential concepts such as route handling, error management, and authentication.
 
-## Recursos Utilizados
-- Python
+The API developed in this repository simulates a **hotel management system**, allowing the creation, retrieval, updating, and deletion of hotels, as well as user authentication.
+
+---
+
+## Technologies & Resources Used
+
+- Python  
   ![Python](https://img.shields.io/badge/Python-3.8-blue)
-- SQL
+
+- SQL (MySQL)  
   ![SQL](https://img.shields.io/badge/SQL-MySQL-lightgrey)
-- Visual Studio Code
+
+- Visual Studio Code  
   ![VSCode](https://img.shields.io/badge/VSCode-latest-blueviolet)
